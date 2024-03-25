@@ -42,8 +42,8 @@ body {
 #back.animate,
 #envelope button.animate {
   opacity: 0;
-  transition: opacity 1s;
-  transition-delay: 1s;
+  transition: opacity 2s;
+  transition-delay: 2s;
 }
 
 #letter {
